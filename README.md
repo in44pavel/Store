@@ -1,0 +1,2 @@
+# Store
+json storage
